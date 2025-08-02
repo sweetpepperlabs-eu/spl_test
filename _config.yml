@@ -10,21 +10,20 @@
 ############################
 
 # Name of website
-title: SPL
+title: SWEETPEPPERLABS
 
 # Your name to show in the footer
-author: lebuu eu
+author: lebuu_eu
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "/"
+  About: "aboutme"
+  Projects: "posts"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
