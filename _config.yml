@@ -20,10 +20,10 @@ author: lebuu_eu
 ###############################################
 
 navbar-links:
-  Home: "/"
-  About: "aboutme"
-  Projects: "posts"
-  Contact: "contact"
+  home.me: "/"
+  about.me: "aboutme"
+  notebook.sheets: "posts"
+  contact.me: "contact"
 
 ################
 # --- Logo --- #
